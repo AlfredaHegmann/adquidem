@@ -1,0 +1,61 @@
+{
+  "name": "adquidem",
+  "version": "1.0.0",
+  "author": "PercivalWalsh",
+  "description": "Is this JS value callable? Works with Functions and GeneratorFunctions, despite ES6 @@toStringTag.",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlfredaHegmann/adquidem.git"
+  },
+  "keywords": [
+    "natus",
+    "sapiente",
+    "dicta",
+    "quia",
+    "generator function",
+    "arrow",
+    "arrow function",
+    "ES6",
+    "corrupti",
+    "officia"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "foreach": "~2.0.5",
+    "is": "~2.2.0",
+    "tape": "~3.4.0",
+    "indexof": "~0.0.1",
+    "covert": "1.0.0",
+    "jscs": "~1.10.0",
+    "editorconfig-tools": "~0.0.1",
+    "nsp": "~1.0.0",
+    "eslint": "~0.13.0",
+    "make-arrow-function": "~1.0.0",
+    "make-generator-function": "~1.0.0",
+    "semver": "~4.2.0"
+  },
+  "testling": {
+    "files": "test.js",
+    "browsers": [
+      "iexplore/6.0..latest",
+      "firefox/3.0..6.0",
+      "firefox/15.0..latest",
+      "firefox/nightly",
+      "chrome/4.0..10.0",
+      "chrome/20.0..latest",
+      "chrome/canary",
+      "opera/10.0..latest",
+      "opera/next",
+      "safari/4.0..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2"
+    ]
+  },
+  "engines": {
+    "node": ">= 0.4"
+  },
+  "homepage": "https://github.com/AlfredaHegmann/adquidem.git"
+}
